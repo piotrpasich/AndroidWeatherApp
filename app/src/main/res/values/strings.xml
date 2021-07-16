@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather2</string>
+    <string name="weather_api_url">http://infomet.nazwa.pl/data/</string>
+
+    <string-array name="stations">
+        <item>Station 1</item>
+        <item>Station 2</item>
+        <item>Station 3</item>
+    </string-array>
+</resources>
